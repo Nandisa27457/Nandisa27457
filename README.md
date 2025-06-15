@@ -1,7 +1,13 @@
-## Hi there 👋
+## Hi there 👋I am Nandisa Dlamini
 
-<!--
-**Nandisa27457/Nandisa27457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠💻 Hey! I'm currently leveling up from "Googles everything" to "Writes code that sometimes works on the first try." I'm a software development learner who's bravely navigating the wild jungle of bugs, semicolons, and Stack Overflow tabs.
+
+Currently poking at JavaScript 🔮, and making pixels behave with HTML & CSS 🎨. I'm all about learning by doing (and occasionally breaking things in spectacular fashion).
+
+If you're into coding, memes, or watching someone slowly become fluent in developer-speak, stick around. Let’s debug life together—one curly brace at a time.
+
+
+
 
 Here are some ideas to get you started:
 
