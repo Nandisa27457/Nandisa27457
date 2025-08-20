@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nandisa Dlamini</h1>
-<h3 align="center">🧠💻 Hey! I'm currently leveling up from "Googles everything" to "Writes code that sometimes works on the first try." I'm a software development learner who's bravely navigating the wild jungle of bugs, semicolons, and Stack Overflow tabs. Currently poking at JavaScript 🔮, and making pixels behave with HTML & CSS 🎨. I'm all about learning by doing (and occasionally breaking things in spectacular fashion). If you're into coding, memes, or watching someone slowly become fluent in developer-speak, stick around. Let’s debug life together—one curly brace at a time.</h3>
+<h3 align="center">🧠💻 Hey! I'm currently leveling up from "Googles everything" to "Writes code that sometimes works on the first try." I'm a software developer who's bravely navigating the wild jungle of bugs, semicolons, and Stack Overflow tabs. Currently poking at JavaScript 🔮, and making pixels behave with HTML & CSS 🎨. I'm all about learning by doing (and occasionally breaking things in spectacular fashion). If you're into coding, memes, or watching someone slowly become fluent in developer-speak, stick around. Let’s debug life together—one curly brace at a time.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandisa27457" alt="nandisa27457" /></a> </p>
 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Software development fundamentals**
 
-- 💬 Ask me about **CSS and HTML**
+- 💬 Ask me about **CSS/ HTML/Tailwind/ JavaScrpt/React**
 
 - 📫 How to reach me **shangenandisa@gmail.com**
 
