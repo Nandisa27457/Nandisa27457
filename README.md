@@ -1,5 +1,8 @@
    ![peachcat-new](https://github.com/user-attachments/assets/a39f29dc-5245-41c7-a200-4cf14372fabc)
-
+\<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 <h1 align="center">Hi 👋, I'm Nandisa Dlamini</h1>
 <h3 align="center">🧠💻 Hey! I'm currently leveling up from "Googles everything" to "Writes code that sometimes works on the first try." I'm a software developer who's bravely navigating the wild jungle of bugs, semicolons, and Stack Overflow tabs. Currently poking at JavaScript 🔮, and making pixels behave with HTML & CSS 🎨. I'm all about learning by doing (and occasionally breaking things in spectacular fashion). If you're into coding, memes, or watching someone slowly become fluent in developer-speak, stick around. Let’s debug life together—one curly brace at a time.</h3>
