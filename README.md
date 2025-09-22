@@ -1,5 +1,5 @@
    ![peachcat-new](https://github.com/user-attachments/assets/a39f29dc-5245-41c7-a200-4cf14372fabc)
-\<!--Night Owl image-->
+
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
