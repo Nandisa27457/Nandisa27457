@@ -1,33 +1,106 @@
-   ![peachcat-new](https://github.com/user-attachments/assets/a39f29dc-5245-41c7-a200-4cf14372fabc)
-
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-<h1 align="center">Hi 👋, I'm Nandisa Dlamini</h1>
-<h3 align="center">🧠💻 Hey! I'm currently leveling up from "Googles everything" to "Writes code that sometimes works on the first try." I'm a software developer who's bravely navigating the wild jungle of bugs, semicolons, and Stack Overflow tabs. Currently poking at JavaScript 🔮, and making pixels behave with HTML & CSS 🎨. I'm all about learning by doing (and occasionally breaking things in spectacular fashion). If you're into coding, memes, or watching someone slowly become fluent in developer-speak, stick around. Let’s debug life together—one curly brace at a time.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandisa27457" alt="nandisa27457" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [instagram replica](https://github.com/Nandisa27457/Module_06_NANDLA2549_fto2505_Group_B_Nandisa_Dlamini_SDF03.git)
-
-- 🌱 I’m currently learning **Software development fundamentals**
-
-- 💬 Ask me about **CSS/ HTML/Tailwind/ JavaScrpt/React**
-
-- 📫 How to reach me **shangenandisa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/nandisa_shange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nandisa_shange" height="30" width="40" /></a>
-<a href="https://instagram.com/nandisa_shange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandisa_shange" height="30" width="40" /></a>
+   
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=HELLO&fontColor=39FF14&fontSize=55&animation=fadeIn&desc=React%20•%20Node.js%20•%20JavaScript&descAlignY=70"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+# Hey there! 👋 I'm Nandisa Dlamini
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandisa27457&show_icons=true&locale=en&layout=compact" alt="nandisa27457" /></p>
+### 💻 Full-Stack JavaScript Developer
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandisa27457&" alt="nandisa27457" /></p>
+I build modern, responsive web applications using **React**, **Node.js**, and **JavaScript**.
+
+Most days you'll find me designing intuitive user interfaces, building APIs, debugging mysterious issues that somehow disappear when someone else walks over, and turning ideas into polished web experiences.
+
+I enjoy writing clean, maintainable code, learning new technologies, and creating applications that are as enjoyable to use as they are to build.
+
+> *Because every great feature starts with* `git init` *and a little optimism.* 🚀
+
+---
+
+## 🚀 What I'm Working On
+
+- 📱 Building an **Instagram Clone** with React
+- 🌱 Expanding my backend expertise with **Node.js**, APIs, and databases
+- ⚡ Continuously improving my full-stack development skills
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- REST APIs
+
+### Tools
+- Git & GitHub
+- VS Code
+- Responsive Design
+
+---
+
+## 💬 Ask Me About
+
+- React
+- JavaScript
+- HTML & CSS
+- Responsive Web Design
+- Frontend Development
+- REST APIs
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** shangenandisa@gmail.com
+
+<a href="https://instagram.com/nandisa_shange">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+</a>
+<a href="https://fb.com/nandisa_shange">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35"/>
+</a>
+
+---
+
+## ⚙️ Languages & Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nandisa27457&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandisa27457&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandisa27457&theme=tokyonight"/>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+I spend about 20% of my time writing code and the other 80% wondering why it worked after I changed absolutely nothing. 😄
+```
+
